@@ -1,4 +1,4 @@
 CardReader
 ==========
 
-RFID Card Reader lock for closets
+RFID Card Reader lock for closets.
